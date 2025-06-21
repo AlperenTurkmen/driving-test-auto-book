@@ -71,6 +71,7 @@ const CONFIG = {
 1. Navigate to the [DVSA booking website](https://driverpracticaltest.dvsa.gov.uk/application)
 2. The script will automatically take over and guide you through the process
 3. Watch the console (F12 → Console) for detailed progress updates
+4. Note: I added the link as a bookmark to my browser, so I can book the test with only one click.
 
 ## 📁 Files in this Repository
 
